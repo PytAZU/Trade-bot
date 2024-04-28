@@ -50,6 +50,7 @@ ___
 ___
 
 Ссылка на доску для редактирования структуры -> [ПУНЬК](https://drive.google.com/file/d/1eQYnZuzZe4rEXLY-ld58V9y55A1lFLFH/view?usp=sharing)
+
 Ссылка на проект в Google Colab -> [ПУНЬК НОМЕР ДВА](https://colab.research.google.com/drive/1MX4xS2XtK7JpuhJ9wcF3OQpwB4IbCYtU?usp=sharing)
 
 ## Использование
